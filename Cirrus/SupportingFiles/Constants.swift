@@ -9,3 +9,5 @@ import Foundation
 
 var apiKey = "d4579a4d-5f80-49f7-b558-2be101d0cf4c"
 var HTTPHeaderField = "X-Yandex-API-Key"
+var lat = 53.902284
+var lon = 27.561831
